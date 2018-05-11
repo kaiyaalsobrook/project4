@@ -1,0 +1,122 @@
+.body {
+	background-image: url("images/buscuit.PNG");
+	 margin: 40px;
+	
+}
+.h1 {
+	color: color: #FF0000;
+}
+
+.grid	{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 3vh;
+  border: 1px black solid;
+}
+
+.headerbody {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 1;
+ grid-column-end: span 4;
+}
+
+.leftsidebar {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 1;
+ grid-column-end: span 2;
+ text-align: justify;
+}
+
+.rightsidebar {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 3;
+ grid-column-end: span 2;
+ text-align: justify;
+}
+
+.samplegrid-a {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 1;
+ grid-column-end: span 1;
+}
+
+.samplegrid-b {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 2;
+ grid-column-end: span 1;
+}
+
+.samplegrid-c {
+ background-color: #KAKAEA;
+ padding: 1em;
+ grid-column-start: 3;
+ grid-column-end: span 1;
+}
+
+.samplegrid-d {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 4;
+ grid-column-end: span 1;
+}
+
+.samplegrid-e {
+ background-color: #KAKAEA;
+ padding: 1em;
+ grid-column-start: 1;
+ grid-column-end: span 1;
+}
+
+.samplegrid-f {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 2;
+ grid-column-end: span 1;
+}
+
+.samplegrid-g {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 3;
+ grid-column-end: span 1;
+}
+
+.samplegrid-h {
+ background-color: #KAKAEA;
+ padding: 1em;
+ grid-column-start: 4;
+ grid-column-end: span 1;
+}
+
+.samplegrid-i {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 1;
+ grid-column-end: span 1;
+}
+
+.samplegrid-j {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 2;
+ grid-column-end: span 2;
+}
+
+.samplegrid-k {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 4;
+ grid-column-end: span 1;
+}
+
+.footerbody {
+ background-color: #EAEAEA;
+ padding: 1em;
+ grid-column-start: 1;
+ grid-column-end: span 4;
+}
