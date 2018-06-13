@@ -10,7 +10,7 @@
 }
 
 .conclusionbody {
-	background-image: url("images/bruce.GIF");
+	background-image: url("images/bruce.gif");
 }
 
 .h1 {
@@ -48,7 +48,7 @@
 }
 
 .videosbody {
-	background-image: url("images/south.GIF");
+	background-image: url("images/south.gif");
 }
 
 #navbar {
@@ -101,5 +101,5 @@
 }
 
  h3 {
-	color: #ffffff;
+	color: black;
 }
